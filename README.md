@@ -1,8 +1,8 @@
 <h1> Olá, devs! Eu me chamo Rodrigo Delgado </h1>
 
-👨‍🎓 Sou apenas mais uma pessoa que busca aprender para poder dar forma no mundo real à ideias e soluções que passam pela minha mente. <br><br>
+👨‍🎓 Sou alguém que sempre gostou de entender o funcionamento por trás das coisas. Com o aprendizado que obtenho, busco dar forma no mundo real à ideias e soluções que passam pela minha mente. <br><br>
 
-👨‍💻 Como perceberam, caso tenham visto os meus repositórios, os projetos em grande parte tem foco no back-end. Aqui você encontrará projetos e códigos que fiz atuando como freelancer e também projetos que desenvolvi para fins de praticar.  <br> <br>
+👨‍💻 Como perceberam, caso tenham visto os meus repositórios, os projetos em grande parte tem foco no back-end com Python. Aqui você encontrará projetos e códigos que fiz atuando como freelancer e também projetos que desenvolvi para fins de praticar.  <br> <br>
 
 <h3> Técnologias com as quais tenho familiaridade <br> </h3>
 
