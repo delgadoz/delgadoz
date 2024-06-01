@@ -1,10 +1,10 @@
-<h1> Hello devs! My name is Rodrigo Delgado </h1>
+<h1> Olá, devs! Eu me chamo Rodrigo Delgado </h1>
 
-👨‍🎓 I am a programming student at Unifacisa <br> <br>
-👨‍💻 I'm learning new programming languages to develop myself <br>
-and contribute to a better world <br> <br>
+👨‍🎓 Sou apenas mais uma pessoa que busca aprender para poder dar forma no mundo real à ideias e soluções que passam pela minha mente. <br><br>
 
-<h3> Some of the programming languages I've been studying <br> </h3>
+👨‍💻 Como perceberam, caso tenham visto os meus repositórios, os projetos em grande parte tem foco no back-end. Aqui você encontrará projetos e códigos que fiz atuando como freelancer e também projetos que desenvolvi para fins de praticar.  <br> <br>
+
+<h3> Técnologias com as quais tenho familiaridade <br> </h3>
 
 <div>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
